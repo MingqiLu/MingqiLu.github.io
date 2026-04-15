@@ -25,14 +25,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **SNARKs from LWE via Non-black-box Reductions (or: How to rewind non-interactively)**  
   Zhengzhong Jin, **Mingqi Lu**, Bo Peng  
-  **STOC 2026**
+  **STOC 2026** \[[eprint](https://github.com)\]
 
 - **Memory-sample lower bounds for LWE**  
   **Mingqi Lu**, Junzhao Yang  
-  **CRYPTO 2024**
+  **CRYPTO 2024** {% \[[eprint](https://github.com)\] %}
 
 # 📖 Educations
 
-- *2024.09 - now*, Ph.D., consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-- *2020.09 - 2024.06*, Undergraduate, Yao Class, Tsinghua Univeristy, Beijing, China. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
