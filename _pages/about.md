@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second year Ph.D. student at Northeastern University, advised by [Zhengzhong Jin](https://zhengzhongjin.github.io/). Before that, I was an undergraduate student at Yao class, Tsinghua University.
 
-My research lies in theoretical cryptography, with a focus on cryptographic proof systems such as SNARKs and related primitives.
+My research lies in theoretical cryptography, with a focus on cryptography.
 
 Email: lu.mingqi (at) northeastern (dot) edu
 
@@ -32,9 +32,3 @@ Email: lu.mingqi (at) northeastern (dot) edu
 - **Memory-sample lower bounds for LWE**  
   **Mingqi Lu**, Junzhao Yang  
   **CRYPTO 2024**
-
-# 📖 Educations
-
-- *2024.09 - now*, Ph.D., Computer Science, Northeastern University, Boston, USA. 
-
-- *2020.09 - 2024.06*, Undergraduate, Yao Class, Tsinghua Univeristy, Beijing, China. 
