@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second year Ph.D. student at Northeastern University, advised by [Zhengzhong Jin](https://zhengzhongjin.github.io/). Before that, I was an undergraduate student at Yao class, Tsinghua University.
+I am a second year Ph.D. student at Northeastern University, advised by Prof. [Zhengzhong Jin](https://zhengzhongjin.github.io/). Before that, I was an undergraduate student at Yao Class, Tsinghua University.
 
-My research lies in theoretical cryptography, with a focus on cryptography.
+My research interests lie in theoretical computer science, with a focus on cryptography.
 
 Email: lu.mingqi (at) northeastern (dot) edu
 
