@@ -25,6 +25,10 @@ Email: lu.mingqi (at) northeastern (dot) edu
 
 # 📝 Publications 
 
+- **Succinct Non-interactive Arguments for Distributions**  
+  Zhengzhong Jin, **Mingqi Lu**, Bo Peng, Yue Yu  
+  **CRYPTO 2026**
+
 - **SNARKs from LWE via Non-black-box Reductions (or: How to rewind non-interactively)**  
   Zhengzhong Jin, **Mingqi Lu**, Bo Peng  
   **STOC 2026**
